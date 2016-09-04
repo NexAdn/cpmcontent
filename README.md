@@ -1,6 +1,4 @@
 # CPMcontent
-CPMcontent is a testing repository for my ComputerCraft Lua script called "CPM" (ComputerCraft Package Mangager) which will work similarly to the known Linux package manager (e.g. APT, RPM).
-CPM itself is currently work in progress and not ready yet.
+CPMcontent is the public repository for CPM (https://github.com/NexAdn/cpm)
 
-When CPM is published, I will offer the creation of own packages to be added in this repository.
-
+You can submit own CC scripts by starting a new issue with links to gist or pastebi or by forking the repository and opening a pull request.
